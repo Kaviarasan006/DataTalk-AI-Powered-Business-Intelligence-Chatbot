@@ -32,9 +32,9 @@
 
 ## Setup (Local)
 
-### Step 1 — Get a Gemini API Key (Free)
+### Step 1 — Get a Grok API Key (Free)
 
-1. Go to https://aistudio.google.com/app/apikey
+1. Go to https://console.groq.com/keys
 2. Click "Create API Key"
 3. Copy the key
 
@@ -43,7 +43,7 @@
 Open `backend/.env` and replace the placeholder:
 
 ```
-GEMINI_API_KEY=your_actual_key_here
+GROQ_API_KEY="your grok api key here"
 ```
 
 ### Step 3 — Start the Backend
