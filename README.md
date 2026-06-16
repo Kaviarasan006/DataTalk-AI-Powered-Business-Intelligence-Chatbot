@@ -124,18 +124,6 @@ datatalk/
 
 ---
 
-## Resume Talking Points
-
-- Built an end-to-end AI-powered BI chatbot using **LangChain + Gemini 1.5 Flash**
-- Implemented **NL2Code** (Natural Language to Pandas/SQL) pipeline with schema-aware prompting
-- Designed a **FastAPI** backend with session management and query execution sandbox
-- Generated interactive **Plotly** visualizations auto-selected by the LLM
-- Built **multi-sheet formatted Excel exports** with auto-charts using openpyxl
-- Implemented **conversation memory** for follow-up question support
-- Deployed with **Docker Compose** (frontend + backend)
-
----
-
 ## Extending the Project (Phase 2 Ideas)
 
 - Add **PostgreSQL** support — connect to a real database instead of CSV upload
